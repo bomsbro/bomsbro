@@ -1,5 +1,6 @@
 # bomsbro
 👨‍💻 FrontEnd Development Beginner
+
 Blog: <a href="bomsbro.tistory.com">Blog</a>
 
 ## Main skills: 
