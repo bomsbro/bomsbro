@@ -1,5 +1,6 @@
 # bomsbro
-👨‍💻 FrontEnd Development Beginner.
+👨‍💻 FrontEnd Development Beginner
+Blog: <a href="bomsbro.tistory.com">Blog</a>
 
 ## Main skills: 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
