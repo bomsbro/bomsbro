@@ -1,7 +1,7 @@
 # bomsbro
 👨‍💻 FrontEnd Development Beginner.
 
-## mainSkills: 
+## Main skills: 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
@@ -9,7 +9,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 
-## subSkills:
+## Sub skills:
 
 <!--
 **bomsbro/bomsbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
