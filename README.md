@@ -1,5 +1,5 @@
 # bomsbro
-👨‍💻 FrontEnd Development Beginner
+👨‍💻 FrontEnd Developer
 
 **[Blog](https://www.bomsbro.tistory.com/)**
 
