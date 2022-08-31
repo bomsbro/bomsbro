@@ -11,7 +11,7 @@
 
 ## Sub skills:
 [![Linux Badge](https://img.shields.io/badge/linux-blue?style=flat-square&logo=linux&logoColor=white)](https://ubuntu.com/)
-[![SpringBoot Badge](https://img.shields.io/badge/spring-boot-green?style=flat-square&logo=springboot&logoColor=white)](https://docs.spring.io/)
+[![SpringBoot Badge](https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white)](https://docs.spring.io/)
 
 <!--
 **bomsbro/bomsbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
