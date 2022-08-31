@@ -1,7 +1,7 @@
 # bomsbro
 👨‍💻 FrontEnd
 
-**[Blog](https://www.bomsbro.com) -> :construction:**
+**:construction:[Blog](https://www.bomsbro.com):construction:**
 
 ## Main skills: 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
