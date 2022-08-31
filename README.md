@@ -8,9 +8,9 @@
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Mobx Badge](https://img.shields.io/badge/mobx-black?style=flat-square&logo=mobx&logoColor=orange)](https://mobx.js.org/)
 
 ## Sub skills:
+[![Linux Badge](https://img.shields.io/badge/linux-blue?style=flat-square&logo=linux&logoColor=white)](https://ubuntu.com/)
 
 <!--
 **bomsbro/bomsbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
